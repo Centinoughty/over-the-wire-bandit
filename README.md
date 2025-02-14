@@ -85,3 +85,11 @@ I will write in the solution of all levels, along with the task.
     cat data.txt | sort | uniq -u
 ```
 **Password:** ```4CKMh1JI91bUIZZPXDqGanal4xvAg0JM```
+
+### **10. Level 9 -> Level 10**
+
+```bash
+    ls
+    strings data.txt | grep =
+```
+**Password:** ```FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey```
