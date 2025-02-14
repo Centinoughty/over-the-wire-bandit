@@ -7,7 +7,7 @@ I will write in the solution of all levels, along with the task.
 
 ## Walkthrough Guide
 
-### **Bandit Level 0 -> Level 1**
+### **1. Bandit Level 0 -> Level 1**
 
 ```bash
     ls
