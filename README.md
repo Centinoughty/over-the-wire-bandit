@@ -93,3 +93,11 @@ I will write in the solution of all levels, along with the task.
     strings data.txt | grep =
 ```
 **Password:** ```FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey```
+
+### **11. Level 10 -> Level 11**
+
+```bash
+    ls
+    base64 -d data.txt
+```
+**Password:** ```dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr```
