@@ -77,3 +77,11 @@ I will write in the solution of all levels, along with the task.
     grep millionth data.txt
 ```
 **Password:** ```dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc```
+
+### **9. Level 8 -> Level 9**
+
+```bash
+    ls
+    cat data.txt | sort | uniq -u
+```
+**Password:** ```4CKMh1JI91bUIZZPXDqGanal4xvAg0JM```
