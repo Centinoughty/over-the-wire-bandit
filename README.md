@@ -40,3 +40,14 @@ I will write in the solution of all levels, along with the task.
     cat ...Hiding-From-You
 ```
 **Password:** ```2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ```
+
+### **5. Level 4 -> Level 5**
+
+```bash
+    ls
+    cd inhere/
+    file ./-file0*
+    cat ./-file07
+
+```
+**Password:** ```4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw```
