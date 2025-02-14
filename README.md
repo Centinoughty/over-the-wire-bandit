@@ -101,3 +101,11 @@ I will write in the solution of all levels, along with the task.
     base64 -d data.txt
 ```
 **Password:** ```dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr```
+
+### **12. Level 11 -> Level 12**
+
+```bash
+    ls
+    cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+```
+**Password:** ```7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4```
