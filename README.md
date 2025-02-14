@@ -48,6 +48,15 @@ I will write in the solution of all levels, along with the task.
     cd inhere/
     file ./-file0*
     cat ./-file07
-
 ```
 **Password:** ```4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw```
+
+### **6. Level 5 -> Level 6**
+
+```bash
+    ls
+    cd inhere/
+    find -size 1033c -type f -readable ! -executable
+
+```
+**Password:** ```HWasnPhtq9AVKe0dmk45nxy20cvUa6EG```
