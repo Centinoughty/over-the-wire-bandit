@@ -30,3 +30,13 @@ I will write in the solution of all levels, along with the task.
     cat spaces\ in\ this\ filename
 ```
 **Password:** ```MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx```
+
+### **4. Level 3 -> Level 4**
+
+```bash
+    ls
+    cd inhere/
+    ls -a
+    cat ...Hiding-From-You
+```
+**Password:** ```2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ```
