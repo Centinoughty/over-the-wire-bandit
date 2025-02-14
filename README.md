@@ -22,3 +22,11 @@ I will write in the solution of all levels, along with the task.
     cat ./-
 ```
 **Password:** ```263JGJPfgU6LtdEvgfWU1XP5yac29mFx```
+
+### **3. Level 2 -> Level 3**
+
+```bash
+    ls
+    cat spaces\ in\ this\ filename
+```
+**Password:** ```MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx```
