@@ -14,4 +14,4 @@ I will write in the solution of all levels, along with the task.
     cat readme
 ```
 
-**Password: **ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+**Password:** ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
