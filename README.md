@@ -69,3 +69,11 @@ I will write in the solution of all levels, along with the task.
     cat ./var/lib/dpkg/info/bandit7.password
 ```
 **Password:** ```morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj```
+
+### **8. Level 7 -> Level 8**
+
+```bash
+    ls
+    grep millionth data.txt
+```
+**Password:** ```dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc```
