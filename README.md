@@ -7,7 +7,7 @@ I will write in the solution of all levels, along with the task.
 
 ## Walkthrough Guide
 
-### **1. Bandit Level 0 -> Level 1**
+### **1. Level 0 -> Level 1**
 
 ```bash
     ls
@@ -15,7 +15,7 @@ I will write in the solution of all levels, along with the task.
 ```
 **Password:** ```ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If```
 
-### **Bandit Level 1 -> Level 2**
+### **2. Level 1 -> Level 2**
 
 ```bash
     ls
