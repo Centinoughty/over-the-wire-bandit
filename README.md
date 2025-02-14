@@ -60,3 +60,12 @@ I will write in the solution of all levels, along with the task.
 
 ```
 **Password:** ```HWasnPhtq9AVKe0dmk45nxy20cvUa6EG```
+
+### **7. Level 6 -> Level 7**
+
+```bash
+    cd ../../
+    find -user bandit7 -group bandit6 -size 33c 2>/dev/null
+    cat ./var/lib/dpkg/info/bandit7.password
+```
+**Password:** ```morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj```
