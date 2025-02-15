@@ -109,3 +109,38 @@ I will write in the solution of all levels, along with the task.
     cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 ```
 **Password:** ```7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4```
+
+### **13. Level 12 -> Level 13**
+
+```bash
+    ls
+    mktemp -d
+    cd "$(mktemp -d)"
+    cp ~/data.txt ./
+    xxd -r data.txt > data.bin
+    file data.bin
+    mv data.bin data.gz
+    gunzip data.gz
+    file data
+    mv data data.bz2
+    bunzip2 data.bz2
+    file data
+    mv data data.gz
+    gunzip data.gz
+    file data
+    tar -xf data
+    ls
+    tar -xf data5.bin
+    ls
+    file data6.bin
+    bzip2 -d data6.bin
+    file data6.bin.out
+    tar -xf data6.bin.out
+    ls
+    file data8.bin
+    mv data8.bin data8.gz
+    gzip -d data8.gz
+    file data8
+    cat data8
+```
+**Password:** ```FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn```
